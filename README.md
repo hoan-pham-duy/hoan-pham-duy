@@ -12,9 +12,9 @@
 
 <br><br>
 
-- :company: I am a `Head of Software` at a healthcare startup: [Biorithm](https://bio-rithm.com)
-- :tick: As working in a startup, I'm a man with many hats, forcus on architecture and Backend/Devops/AWS Cloud to develop high-quality products that is statifiable with standards.
-- :tick: I'm also interested with R&D projects to create unique products, related to embedded devices, Algorithms and blockchain.
+- 🧑🏻‍💻 I am a `Head of Software` at a healthcare startup: [Biorithm](https://bio-rithm.com)
+- ✅ As working in a startup, I'm a man with many hats, forcus on architecture and Backend/Devops/AWS Cloud to develop high-quality products that is statifiable with standards.
+- ✅ I'm also interested with R&D projects to create unique products, related to embedded devices, Algorithms and blockchain.
 - :boom: You can visit [MY WEBSITE](https://lighthappy.org).
 <br>
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
